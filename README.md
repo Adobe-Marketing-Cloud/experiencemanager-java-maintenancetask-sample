@@ -1,6 +1,6 @@
-# Adobe Experience Manager - Sample Granite Maintenance Task
+# Adobe Experience Manager - Sample Maintenance Task
 
-This is a bundle implementing a sample Maintenance Task to be configured using the Granite Operations Dashboard.
+This is a bundle implementing a sample Maintenance Task to be configured using the Operations Dashboard.
 
 ## Building 
  
